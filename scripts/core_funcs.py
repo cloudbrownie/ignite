@@ -1,0 +1,3 @@
+def changeLevel(newLevel):
+    torches = []
+    
